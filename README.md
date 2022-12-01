@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Caitlin Sisilli, I am currentlty working on my Bachelors in Computer Science.
-- :) Graduating in Decmeber of 2023!!!
+- 💞️ Graduating in Decmeber of 2023!!!
 - 👀 I’m interested in learning new software languages.
 - 🌱 I’m currently learning Operating Systems, Software Design, and .Net Enviornment
 - 💞️ I’m looking to collaborate on a project
