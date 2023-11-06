@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Caitlin Sisilli, working on my Bachelor's in Computer Science.<br>💞️ Graduating in December of 2023!!!<br>👀 I’m interested in learning new software languages.<br>🌱 I’m currently learning Big Data Programs, Senior Projects, and Web Page development<br>💞️ I’m looking to collaborate on a project<br>📫 How to reach me is by email: caitllinsisilli@gmail.com
+👋 Hi, I’m Caitlin Sisilli, working on my Bachelor's in Computer Science.<br>💞️ Graduating in December of 2023!!!<br>👀 I’m interested in learning new software languages.<br>🌱 I’m currently learning Artificial Intelligent, Database Design, and Foundations of Computer Scienced.<br>💞️ I’m looking to collaborate on a project<br>📫 How to reach me is by email: caitllinsisilli@gmail.com
 
 
 ## 🌐 Socials:
