@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Caitlin Sisilli, working on my Master's in Computer Science.<br>💞️ I’m interested in learning new software languages.<br>🌱 I’m currently learning Ethics in Data and Computing and Data Structures and Algorithms.<br>💞️ I’m looking to collaborate on a project<br>📫 How to reach me is by email: caitllinsisilli@gmail.com
+👋 Hi, I’m Caitlin Sisilli, working on my Master's in Computer Science.<br>💞️ I’m interested in learning new software languages.<br>🌱 I’m currently learning about APIs.<br>💞️ I’m looking to collaborate on a project<br>📫 How to reach me is by email: caitllinsisilli@gmail.com
 
 
 ## 🌐 Socials:
